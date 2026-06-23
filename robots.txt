@@ -13,4 +13,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://www.azzurrapetshop.com.br/sitemap.xml
+Sitemap: https://azzurrapet.com.br/sitemap.xml

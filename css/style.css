@@ -59,7 +59,7 @@ h1,h2,h3,h4{font-family:var(--ff-display);font-weight:700;line-height:1.18;color
 .hero::after{content:"";position:absolute;right:-120px;top:-120px;width:420px;height:420px;background:radial-gradient(circle,rgba(169,214,229,.35),transparent 70%);border-radius:50%}
 .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center;padding:72px 0}
 .hero h1{color:#fff;font-size:clamp(2rem,4.6vw,3.25rem);margin-bottom:18px}
-.hero h1 span{color:var(--azul-claro)}
+.hero h1 span{color:#cfe9f3}
 .hero p{font-size:1.15rem;color:rgba(255,255,255,.92);margin-bottom:30px;max-width:520px}
 .hero-actions{display:flex;gap:14px;flex-wrap:wrap}
 .hero-badges{display:flex;gap:22px;margin-top:34px;flex-wrap:wrap}
@@ -138,7 +138,7 @@ h1,h2,h3,h4{font-family:var(--ff-display);font-weight:700;line-height:1.18;color
 /* Footer */
 .site-footer{background:var(--grafite);color:#cfd3de;padding:54px 0 26px;font-size:.94rem}
 .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:36px;margin-bottom:34px}
-.site-footer h4{color:#fff;font-size:1.05rem;margin-bottom:14px}
+.site-footer h4,.site-footer .footer-h{color:#fff;font-size:1.05rem;margin-bottom:14px;font-family:var(--ff-display);font-weight:600}
 .site-footer a{color:#cfd3de}
 .site-footer a:hover{color:#fff}
 .footer-links{list-style:none}

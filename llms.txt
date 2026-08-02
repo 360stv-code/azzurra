@@ -18,6 +18,7 @@ Dados de contato: Rua Doutor Augusto de Miranda, 940 — Pompeia, São Paulo - S
 - [Início](https://azzurrapet.com.br/)
 - [Sobre a Azzurra](https://azzurrapet.com.br/sobre.html)
 - [Contato](https://azzurrapet.com.br/contato.html)
+- [Galeria de clientes](https://azzurrapet.com.br/galeria.html)
 - [Blog](https://azzurrapet.com.br/blog/index.html)
 
 ## Blog
